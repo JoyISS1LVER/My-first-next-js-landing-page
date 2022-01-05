@@ -1,6 +1,6 @@
 ## Getting Started
 
-I am just an beginner... trying a bit of everything. this is my first react next js website/project
+I am just a beginner... trying a bit of everything. this is my first react next js website/project
 Yes it would not be possible to do it alone ... thus used to help of tutorial from
 JavaScriptMastery.
 
