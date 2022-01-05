@@ -2,17 +2,7 @@
 
 I am just a beginner... trying a bit of everything. this is my first react next js website/project
 Yes it would not be possible to do it alone ... thus used to help of tutorial from
-JavaScriptMastery. and the template is used from StartupLanding.
-
-Install the dependencies and run the development server
-
-```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
-```
+JavaScriptMastery. and the template is used from StartupLanding...
 
 ## How its created and what was used...
 
