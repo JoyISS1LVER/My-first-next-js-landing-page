@@ -4,6 +4,10 @@ I am just a beginner... trying a bit of everything. this is my first react next 
 Yes it would not be possible to do it alone ... thus used the help from tutorial from
 JavaScriptMastery. and the template is used from StartupLanding...
 
+# Website link
+https://myfirst-nextjslandingpage.netlify.app/
+Hosted Via Netlify :D
+
 ## How its created and what was used...
 
 I used Next JS React. just a basic startup page with all the functionalities from
